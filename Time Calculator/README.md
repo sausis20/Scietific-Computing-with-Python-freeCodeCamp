@@ -33,15 +33,3 @@ add_time("6:30 PM", "205:12")
 ```
 
 Do not import any Python libraries. Assume that the start times are valid times. The minutes in the duration time will be a whole number less than 60, but the hour can be any whole number.
-
-### Development
-
-Write your code in `time_calculator.py`. For development, you can use `main.py` to test your `time_calculator()` function. Click the "run" button and `main.py` will run.
-
-### Testing 
-
-The unit tests for this project are in `test_module.py`. We imported the tests from `test_module.py` to `main.py` for your convenience. The tests will run automatically whenever you hit the "run" button.
-
-### Submitting
-
-Copy your project's URL and submit it to freeCodeCamp.
