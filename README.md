@@ -1,6 +1,6 @@
 # Scietific-Computing-with-Python
 
-This respository captures my personal solutions to the Scientific Computing with Python Certification projects.
+This respository contains my personal solutions to the Scientific Computing with Python Certification projects.
 
  - Arithmetic Formatter
  - Time Calculator
