@@ -1,4 +1,4 @@
-# Scietific-Computing-with-Python
+# Scientific-Computing-with-Python
 
 This respository contains my personal solutions to the Scientific Computing with Python Certification projects.
 
